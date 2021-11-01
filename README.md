@@ -26,7 +26,6 @@ Designing a dollar to brl conversion website.
 
 -![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 -![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
--![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 Made with ♥ by Pedro Dos Santos :wave: [Get in touch!](https://www.linkedin.com/in/pedro-lucas-dos-santos/)
 
